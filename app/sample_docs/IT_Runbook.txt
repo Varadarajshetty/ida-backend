@@ -1,0 +1,3 @@
+﻿IT Runbook:
+If the internal VPN is down, restart the "vpn-service" on the gateway server and check logs at /var/log/vpn.log.
+Contact it-support@acme.com for escalations.

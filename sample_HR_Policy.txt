@@ -1,0 +1,27 @@
+HR Policy - Acme Inc
+====================
+
+1. Leave policy
+Employees may apply for leave through the HR Portal:
+- Navigate to Dashboard -> Leave Request
+- Select leave type (Casual, Medical, Earned)
+- Attach supporting documents if required
+Approval:
+- All leave requests require approval from the employee's reporting manager.
+- Medical leaves longer than 3 days require HR verification.
+
+2. Attendance
+- Core hours: 10:00 - 17:00
+- Flexible start: employees may choose start time between 8:30 - 10:30.
+- Late entries must be reported to HR if exceeding 30 minutes.
+
+3. Remote Work
+- Employees can request remote work for up to 2 days per week.
+- Manager approval required; remote work depends on role suitability.
+
+4. Onboarding & Offboarding
+- New hires will complete compliance training within first week.
+- Exit clearances: IT, HR, Finance must sign off.
+
+Contact:
+hr@acme.com

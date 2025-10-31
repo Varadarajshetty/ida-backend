@@ -1,0 +1,27 @@
+IT Runbook - Acme Inc
+=====================
+
+IT Support Contacts:
+- it-support@acme.com
+- Emergency line: +1-555-0100 (Mon-Fri 9:00-18:00)
+
+How to access VPN:
+1. Download the corporate VPN client from the internal portal.
+2. Install and open client.
+3. Sign in with corporate credentials (email + password) and perform MFA.
+4. If MFA not configured, contact it-support@acme.com to set up.
+
+Laptop provisioning:
+- New laptop requests should be created via IT Portal -> Hardware Request.
+- Attach manager approval email and asset tag will be assigned on delivery.
+
+Password reset:
+- Use the self-service password reset portal: https://sso.acme.com/password-reset
+- If account locked, contact it-support with employee id and manager name.
+
+Common troubleshooting:
+- No internet: check network cables, restart the router, confirm ISP status.
+- Cannot access shared drive: ensure VPN is connected and that you have the required group permissions.
+
+Maintenance windows:
+- Weekly patching Wednesdays 02:00-04:00 UTC. Expect intermittent reboots.

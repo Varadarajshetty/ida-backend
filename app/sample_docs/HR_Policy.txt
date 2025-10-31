@@ -1,0 +1,3 @@
+﻿HR Portal Leave Policy:
+Employees may apply for leave via the HR Portal (Dashboard -> Leave Request).
+Approval is required from the reporting manager. Medical leaves require a doctor's note.
